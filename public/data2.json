@@ -1,0 +1,4848 @@
+[
+    {
+        "title": "RAC_basic_sample_project",
+        "data": [
+            {
+                "id": 211850,
+                "name": "Steel-Stainless-NA",
+                "categoryLocalizedName": "Instalační zařizovací předměty",
+                "categoryEnumName": "OST_PlumbingFixtures"
+            },
+            {
+                "id": 213811,
+                "name": "Chrome-Polished_Chrome-CP",
+                "categoryLocalizedName": "Instalační zařizovací předměty",
+                "categoryEnumName": "OST_PlumbingFixtures"
+            },
+            {
+                "id": 414482,
+                "name": "M_1000",
+                "categoryLocalizedName": "Konstrukční sloupy",
+                "categoryEnumName": "OST_StructuralColumns"
+            },
+            {
+                "id": 418977,
+                "name": "9 Meters High",
+                "categoryLocalizedName": "Pozemek",
+                "categoryEnumName": "OST_Site"
+            },
+            {
+                "id": 418985,
+                "name": "9 Meters High",
+                "categoryLocalizedName": "Pozemek",
+                "categoryEnumName": "OST_Site"
+            },
+            {
+                "id": 420270,
+                "name": "01 Cotton",
+                "categoryLocalizedName": "Instalační zařizovací předměty",
+                "categoryEnumName": "OST_PlumbingFixtures"
+            },
+            {
+                "id": 422466,
+                "name": "800 x 2100",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 423100,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 423107,
+                "name": "Entrance door",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 423134,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 423136,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 423138,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 423139,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 423148,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 423149,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 424758,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 424759,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 424777,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 424778,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 424779,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 424786,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 424787,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 425292,
+                "name": "800 x 2100",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 430997,
+                "name": "800 x 2100",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 431064,
+                "name": "800 x 2100",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 431144,
+                "name": "800 x 2100",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 431198,
+                "name": "800 x 2100",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 457479,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 457534,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 457542,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 485432,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 485452,
+                "name": "Curtain Wall Dbl Glass",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 485456,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 485458,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 485460,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 485462,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 485464,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 485466,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 485467,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 485468,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 485469,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 485492,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 485493,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 485494,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 485500,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 485501,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 485505,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 485506,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 485507,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 485508,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 485509,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 485679,
+                "name": "800 x 2100",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 488881,
+                "name": "1180 x 1170mm",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 489062,
+                "name": "1180 x 1170mm",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 498006,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 499496,
+                "name": "Walvit",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 505974,
+                "name": "2.027 x 0.945",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 506168,
+                "name": "wardrobe",
+                "categoryLocalizedName": "Nábytkový systém",
+                "categoryEnumName": "OST_FurnitureSystems"
+            },
+            {
+                "id": 512277,
+                "name": "600 x 600 x 900mm",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512279,
+                "name": "600mm Diameter",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512297,
+                "name": "600 x 600 x 900mm",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512299,
+                "name": "600mm Diameter",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512319,
+                "name": "600 x 600 x 900mm",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512321,
+                "name": "600mm Diameter",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512394,
+                "name": "600 x 600 x 900mm",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512396,
+                "name": "600mm Diameter",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512445,
+                "name": "600 x 600 x 900mm",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512447,
+                "name": "600mm Diameter",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512449,
+                "name": "600 x 600 x 900mm",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512451,
+                "name": "600mm Diameter",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512469,
+                "name": "600 x 600 x 900mm",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512471,
+                "name": "600mm Diameter",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512473,
+                "name": "600 x 600 x 900mm",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512475,
+                "name": "600mm Diameter",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512522,
+                "name": "600 x 600 x 900mm",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512524,
+                "name": "600mm Diameter",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512526,
+                "name": "600 x 600 x 900mm",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512528,
+                "name": "600mm Diameter",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 523531,
+                "name": "wardrobe",
+                "categoryLocalizedName": "Nábytkový systém",
+                "categoryEnumName": "OST_FurnitureSystems"
+            },
+            {
+                "id": 525603,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 554383,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 554644,
+                "name": "9 Meters High",
+                "categoryLocalizedName": "Pozemek",
+                "categoryEnumName": "OST_Site"
+            },
+            {
+                "id": 566599,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 568013,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 628359,
+                "name": "water",
+                "categoryLocalizedName": "Objem",
+                "categoryEnumName": "OST_Mass"
+            },
+            {
+                "id": 669450,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 669451,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 669453,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 669455,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 669457,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 674370,
+                "name": "Miele Washing Machine W 5820 WPS",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 677695,
+                "name": "Miele Tumble Dryer T 7944 C",
+                "categoryLocalizedName": "Speciální vybavení",
+                "categoryEnumName": "OST_SpecialityEquipment"
+            },
+            {
+                "id": 679009,
+                "name": "Rangehood DA-2210",
+                "categoryLocalizedName": "Speciální vybavení",
+                "categoryEnumName": "OST_SpecialityEquipment"
+            },
+            {
+                "id": 680539,
+                "name": "Miele Induction Cooktop 6350 LPT",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 684791,
+                "name": "Miele Fridge/Freezer KF 1911 Vi",
+                "categoryLocalizedName": "Speciální vybavení",
+                "categoryEnumName": "OST_SpecialityEquipment"
+            },
+            {
+                "id": 686184,
+                "name": "Miele Oven H 5681 BP",
+                "categoryLocalizedName": "Speciální vybavení",
+                "categoryEnumName": "OST_SpecialityEquipment"
+            },
+            {
+                "id": 687033,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 687035,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 687037,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 690080,
+                "name": "4500_Kitchen Island_DW",
+                "categoryLocalizedName": "Truhlářské výrobky",
+                "categoryEnumName": "OST_Casework"
+            },
+            {
+                "id": 690286,
+                "name": "4500_Kitchen Island",
+                "categoryLocalizedName": "Truhlářské výrobky",
+                "categoryEnumName": "OST_Casework"
+            },
+            {
+                "id": 694796,
+                "name": "Miele Built-under Dishwasher G 4101 U CS",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 696998,
+                "name": "Miele Microwave M 8260-2",
+                "categoryLocalizedName": "Speciální vybavení",
+                "categoryEnumName": "OST_SpecialityEquipment"
+            },
+            {
+                "id": 697577,
+                "name": "hood enclosure",
+                "categoryLocalizedName": "Nábytkový systém",
+                "categoryEnumName": "OST_FurnitureSystems"
+            },
+            {
+                "id": 698859,
+                "name": "Standard",
+                "categoryLocalizedName": "Instalační zařizovací předměty",
+                "categoryEnumName": "OST_PlumbingFixtures"
+            },
+            {
+                "id": 701300,
+                "name": "fire place hang",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 704276,
+                "name": "Curtain Wall Dbl Glass",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 704282,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 704284,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 704286,
+                "name": "Curtain Wall Dbl Glass",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 704288,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 704289,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 704290,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 704291,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 704293,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 704294,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 704296,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 704297,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 704298,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 704299,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 704300,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 706288,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 707723,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 707726,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 707727,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 707728,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 707729,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 707847,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 707857,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 707859,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 707861,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 708089,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 708090,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 708091,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 708092,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 708093,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 708715,
+                "name": "L127X127X9.5",
+                "categoryLocalizedName": "Konstrukční sloupy",
+                "categoryEnumName": "OST_StructuralColumns"
+            },
+            {
+                "id": 709246,
+                "name": "Entrance door",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 709249,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 709251,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 709253,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 709256,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 709258,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 709259,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 709261,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 709725,
+                "name": "L127X127X9.5",
+                "categoryLocalizedName": "Konstrukční sloupy",
+                "categoryEnumName": "OST_StructuralColumns"
+            },
+            {
+                "id": 735739,
+                "name": "Seating - Artemis - Lounge chair",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 735853,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 736152,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 736223,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 736330,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 736435,
+                "name": "Seating - Artemis - Lounge chair",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 744522,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 744523,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 744524,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 744525,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 745035,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 757198,
+                "name": "Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr",
+                "categoryLocalizedName": "Osvětlovací tělesa",
+                "categoryEnumName": "OST_LightingFixtures"
+            },
+            {
+                "id": 767153,
+                "name": "600 x 600 x 900mm",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 767156,
+                "name": "600mm Diameter",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 767797,
+                "name": "Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr",
+                "categoryLocalizedName": "Osvětlovací tělesa",
+                "categoryEnumName": "OST_LightingFixtures"
+            },
+            {
+                "id": 767856,
+                "name": "Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr",
+                "categoryLocalizedName": "Osvětlovací tělesa",
+                "categoryEnumName": "OST_LightingFixtures"
+            },
+            {
+                "id": 767857,
+                "name": "Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr",
+                "categoryLocalizedName": "Osvětlovací tělesa",
+                "categoryEnumName": "OST_LightingFixtures"
+            },
+            {
+                "id": 767870,
+                "name": "Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr",
+                "categoryLocalizedName": "Osvětlovací tělesa",
+                "categoryEnumName": "OST_LightingFixtures"
+            },
+            {
+                "id": 767871,
+                "name": "Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr",
+                "categoryLocalizedName": "Osvětlovací tělesa",
+                "categoryEnumName": "OST_LightingFixtures"
+            },
+            {
+                "id": 767916,
+                "name": "Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr",
+                "categoryLocalizedName": "Osvětlovací tělesa",
+                "categoryEnumName": "OST_LightingFixtures"
+            },
+            {
+                "id": 767917,
+                "name": "Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr",
+                "categoryLocalizedName": "Osvětlovací tělesa",
+                "categoryEnumName": "OST_LightingFixtures"
+            },
+            {
+                "id": 778316,
+                "name": "Solarworld Sunmodule Plus",
+                "categoryLocalizedName": "Elektrické vybavení",
+                "categoryEnumName": "OST_ElectricalEquipment"
+            },
+            {
+                "id": 778420,
+                "name": "5000L 3500x900x1860",
+                "categoryLocalizedName": "Instalační zařizovací předměty",
+                "categoryEnumName": "OST_PlumbingFixtures"
+            },
+            {
+                "id": 778575,
+                "name": "5000L 3500x900x1860",
+                "categoryLocalizedName": "Instalační zařizovací předměty",
+                "categoryEnumName": "OST_PlumbingFixtures"
+            },
+            {
+                "id": 800280,
+                "name": "Solarworld Sunmodule Plus",
+                "categoryLocalizedName": "Elektrické vybavení",
+                "categoryEnumName": "OST_ElectricalEquipment"
+            },
+            {
+                "id": 800325,
+                "name": "Solarworld Sunmodule Plus",
+                "categoryLocalizedName": "Elektrické vybavení",
+                "categoryEnumName": "OST_ElectricalEquipment"
+            },
+            {
+                "id": 800329,
+                "name": "Solarworld Sunmodule Plus",
+                "categoryLocalizedName": "Elektrické vybavení",
+                "categoryEnumName": "OST_ElectricalEquipment"
+            },
+            {
+                "id": 800340,
+                "name": "Solarworld Sunmodule Plus",
+                "categoryLocalizedName": "Elektrické vybavení",
+                "categoryEnumName": "OST_ElectricalEquipment"
+            },
+            {
+                "id": 800342,
+                "name": "Solarworld Sunmodule Plus",
+                "categoryLocalizedName": "Elektrické vybavení",
+                "categoryEnumName": "OST_ElectricalEquipment"
+            },
+            {
+                "id": 800348,
+                "name": "Solarworld Sunmodule Plus",
+                "categoryLocalizedName": "Elektrické vybavení",
+                "categoryEnumName": "OST_ElectricalEquipment"
+            },
+            {
+                "id": 800350,
+                "name": "Solarworld Sunmodule Plus",
+                "categoryLocalizedName": "Elektrické vybavení",
+                "categoryEnumName": "OST_ElectricalEquipment"
+            },
+            {
+                "id": 800381,
+                "name": "Solarworld Sunmodule Plus",
+                "categoryLocalizedName": "Elektrické vybavení",
+                "categoryEnumName": "OST_ElectricalEquipment"
+            },
+            {
+                "id": 800383,
+                "name": "Solarworld Sunmodule Plus",
+                "categoryLocalizedName": "Elektrické vybavení",
+                "categoryEnumName": "OST_ElectricalEquipment"
+            },
+            {
+                "id": 800389,
+                "name": "Solarworld Sunmodule Plus",
+                "categoryLocalizedName": "Elektrické vybavení",
+                "categoryEnumName": "OST_ElectricalEquipment"
+            },
+            {
+                "id": 800391,
+                "name": "Solarworld Sunmodule Plus",
+                "categoryLocalizedName": "Elektrické vybavení",
+                "categoryEnumName": "OST_ElectricalEquipment"
+            },
+            {
+                "id": 802782,
+                "name": "P-D-66N28T8",
+                "categoryLocalizedName": "Osvětlovací tělesa",
+                "categoryEnumName": "OST_LightingFixtures"
+            },
+            {
+                "id": 812954,
+                "name": "P-D-66N28T8",
+                "categoryLocalizedName": "Osvětlovací tělesa",
+                "categoryEnumName": "OST_LightingFixtures"
+            },
+            {
+                "id": 846332,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 846333,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 846334,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 846335,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 846351,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 906937,
+                "name": "1730 x 2134mm",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 909735,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 909736,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 909737,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 909738,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 909751,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 909752,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 909753,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 909754,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 909755,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 909756,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 909757,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 909758,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 909759,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 931537,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 931585,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 931646,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 931858,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 931859,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 931860,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 931861,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 931877,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 931878,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 931879,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 931880,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 931881,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 931882,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 931883,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 931884,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 931885,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 932878,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 934461,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 935747,
+                "name": "Walvit",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 936823,
+                "name": "Standard",
+                "categoryLocalizedName": "Instalační zařizovací předměty",
+                "categoryEnumName": "OST_PlumbingFixtures"
+            },
+            {
+                "id": 937138,
+                "name": "small",
+                "categoryLocalizedName": "Instalační zařizovací předměty",
+                "categoryEnumName": "OST_PlumbingFixtures"
+            },
+            {
+                "id": 937571,
+                "name": "Walvit",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 937572,
+                "name": "M_Shower Stall-2D",
+                "categoryLocalizedName": "Instalační zařizovací předměty",
+                "categoryEnumName": "OST_PlumbingFixtures"
+            },
+            {
+                "id": 937573,
+                "name": "Standard",
+                "categoryLocalizedName": "Instalační zařizovací předměty",
+                "categoryEnumName": "OST_PlumbingFixtures"
+            },
+            {
+                "id": 938761,
+                "name": "Walvit",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 938762,
+                "name": "M_Shower Stall-2D",
+                "categoryLocalizedName": "Instalační zařizovací předměty",
+                "categoryEnumName": "OST_PlumbingFixtures"
+            },
+            {
+                "id": 938763,
+                "name": "Standard",
+                "categoryLocalizedName": "Instalační zařizovací předměty",
+                "categoryEnumName": "OST_PlumbingFixtures"
+            },
+            {
+                "id": 939962,
+                "name": "2.027 x 0.945",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 940221,
+                "name": "2.027 x 0.945",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 946164,
+                "name": "Scarlet Oak - 42'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 946385,
+                "name": "Honey Locust - 25'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 946484,
+                "name": "Red Maple - 30'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 946631,
+                "name": "Red Ash - 25'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 946708,
+                "name": "Honey Locust - 25'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 946759,
+                "name": "Lombardy Poplar - 40'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 946816,
+                "name": "Honey Locust - 25'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 946835,
+                "name": "Scarlet Oak - 42'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 946912,
+                "name": "Honey Locust - 25'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 946949,
+                "name": "Honey Locust - 25'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 947002,
+                "name": "Red Maple - 30'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 947057,
+                "name": "Honey Locust - 25'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 947108,
+                "name": "Largetooth Aspen - 25'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 947273,
+                "name": "Hawthorn - 25'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 947330,
+                "name": "Honey Locust - 25'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 947379,
+                "name": "Honey Locust - 25'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 950367,
+                "name": "M_RPC Beetle",
+                "categoryLocalizedName": "Stafáž",
+                "categoryEnumName": "OST_Entourage"
+            },
+            {
+                "id": 951303,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 951430,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 951431,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 951432,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 951433,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 951434,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 951435,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 954641,
+                "name": "YinYin",
+                "categoryLocalizedName": "Stafáž",
+                "categoryEnumName": "OST_Entourage"
+            },
+            {
+                "id": 954779,
+                "name": "Alex",
+                "categoryLocalizedName": "Stafáž",
+                "categoryEnumName": "OST_Entourage"
+            },
+            {
+                "id": 954992,
+                "name": "YinYin",
+                "categoryLocalizedName": "Stafáž",
+                "categoryEnumName": "OST_Entourage"
+            },
+            {
+                "id": 955125,
+                "name": "YinYin",
+                "categoryLocalizedName": "Stafáž",
+                "categoryEnumName": "OST_Entourage"
+            },
+            {
+                "id": 975083,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 975087,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 975089,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 975091,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 976241,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 976243,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 976935,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 976937,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 976938,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 976939,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 976940,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 976942,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 976944,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 976946,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 976953,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 976954,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 976955,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 976956,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 976957,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 976958,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 976959,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 976960,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 976961,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977182,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977191,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977193,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977195,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977197,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977199,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977201,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977203,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977247,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977248,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977249,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977250,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977251,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977252,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977253,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977406,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977408,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977409,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977410,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977411,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977413,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977415,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977417,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977419,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977421,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977423,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977425,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977433,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977434,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977435,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977436,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977437,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977438,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977439,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977440,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977441,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977442,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977443,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977444,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977445,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977446,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977447,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977448,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977449,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977450,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977451,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977452,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977453,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977507,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977513,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977514,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977515,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977594,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977595,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977596,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977597,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977598,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977599,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977600,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977601,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977602,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977603,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977604,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977605,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977606,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977607,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977608,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977609,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977610,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977611,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 978551,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 978557,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 978558,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 978559,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 981963,
+                "name": "Model with Island",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 982762,
+                "name": "W600XD600",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 983030,
+                "name": "W600XD600 2",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 983156,
+                "name": "W600XD600",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 983164,
+                "name": "W600XD600",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 983236,
+                "name": "W600XD600",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 983306,
+                "name": "W600XD600 2",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 983388,
+                "name": "W600XD600",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 984486,
+                "name": "W1500XD400XH530",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 985756,
+                "name": "0810mm",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 986988,
+                "name": "Vase (3)-with Flower",
+                "categoryLocalizedName": "Speciální vybavení",
+                "categoryEnumName": "OST_SpecialityEquipment"
+            },
+            {
+                "id": 987054,
+                "name": "Side Table 2 (2)",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 987167,
+                "name": "Side Table 2 (2)",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 988128,
+                "name": "Bar Chair",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 988396,
+                "name": "Bar Chair",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 988459,
+                "name": "Bar Chair",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 988462,
+                "name": "Bar Chair",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 988603,
+                "name": "Bar Chair",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 988640,
+                "name": "Bar Chair",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 989344,
+                "name": "1800 x 900 mm",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 989521,
+                "name": "1800 x 900 mm",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 990317,
+                "name": "Dining Chair (3)",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 990596,
+                "name": "Dining Chair (3)",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 990620,
+                "name": "Dining Chair (3)",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 990621,
+                "name": "Dining Chair (3)",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 990645,
+                "name": "Dining Chair (3)",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 990646,
+                "name": "Dining Chair (3)",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 990647,
+                "name": "Dining Chair (3)",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 990648,
+                "name": "Dining Chair (3)",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 993091,
+                "name": "Wine Bottles",
+                "categoryLocalizedName": "Speciální vybavení",
+                "categoryEnumName": "OST_SpecialityEquipment"
+            },
+            {
+                "id": 993980,
+                "name": "White",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 994782,
+                "name": "Fine China - Plate",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 996881,
+                "name": "Water Glass",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997032,
+                "name": "Fine China - Plate",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997033,
+                "name": "Water Glass",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997050,
+                "name": "Fine China - Plate",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997051,
+                "name": "Water Glass",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997068,
+                "name": "Fine China - Plate",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997069,
+                "name": "Water Glass",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997114,
+                "name": "Fine China - Plate",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997115,
+                "name": "Water Glass",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997116,
+                "name": "Fine China - Plate",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997117,
+                "name": "Water Glass",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997118,
+                "name": "Fine China - Plate",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997119,
+                "name": "Water Glass",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997120,
+                "name": "Fine China - Plate",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997121,
+                "name": "Water Glass",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            }
+        ]
+    },
+    {
+        "title": "RAC_basic_sample_project",
+        "data": [
+            {
+                "id": 211850,
+                "name": "Steel-Stainless-NA",
+                "categoryLocalizedName": "Instalační zařizovací předměty",
+                "categoryEnumName": "OST_PlumbingFixtures"
+            },
+            {
+                "id": 213811,
+                "name": "Chrome-Polished_Chrome-CP",
+                "categoryLocalizedName": "Instalační zařizovací předměty",
+                "categoryEnumName": "OST_PlumbingFixtures"
+            },
+            {
+                "id": 414482,
+                "name": "M_1000",
+                "categoryLocalizedName": "Konstrukční sloupy",
+                "categoryEnumName": "OST_StructuralColumns"
+            },
+            {
+                "id": 418977,
+                "name": "9 Meters High",
+                "categoryLocalizedName": "Pozemek",
+                "categoryEnumName": "OST_Site"
+            },
+            {
+                "id": 418985,
+                "name": "9 Meters High",
+                "categoryLocalizedName": "Pozemek",
+                "categoryEnumName": "OST_Site"
+            },
+            {
+                "id": 420270,
+                "name": "01 Cotton",
+                "categoryLocalizedName": "Instalační zařizovací předměty",
+                "categoryEnumName": "OST_PlumbingFixtures"
+            },
+            {
+                "id": 422466,
+                "name": "800 x 2100",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 423100,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 423107,
+                "name": "Entrance door",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 423134,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 423136,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 423138,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 423139,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 423148,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 423149,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 424758,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 424759,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 424777,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 424778,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 424779,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 424786,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 424787,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 425292,
+                "name": "800 x 2100",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 430997,
+                "name": "800 x 2100",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 431064,
+                "name": "800 x 2100",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 431144,
+                "name": "800 x 2100",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 431198,
+                "name": "800 x 2100",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 457479,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 457534,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 457542,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 485432,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 485452,
+                "name": "Curtain Wall Dbl Glass",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 485456,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 485458,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 485460,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 485462,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 485464,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 485466,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 485467,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 485468,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 485469,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 485492,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 485493,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 485494,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 485500,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 485501,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 485505,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 485506,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 485507,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 485508,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 485509,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 485679,
+                "name": "800 x 2100",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 488881,
+                "name": "1180 x 1170mm",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 489062,
+                "name": "1180 x 1170mm",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 498006,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 499496,
+                "name": "Walvit",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 505974,
+                "name": "2.027 x 0.945",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 506168,
+                "name": "wardrobe",
+                "categoryLocalizedName": "Nábytkový systém",
+                "categoryEnumName": "OST_FurnitureSystems"
+            },
+            {
+                "id": 512277,
+                "name": "600 x 600 x 900mm",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512279,
+                "name": "600mm Diameter",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512297,
+                "name": "600 x 600 x 900mm",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512299,
+                "name": "600mm Diameter",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512319,
+                "name": "600 x 600 x 900mm",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512321,
+                "name": "600mm Diameter",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512394,
+                "name": "600 x 600 x 900mm",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512396,
+                "name": "600mm Diameter",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512445,
+                "name": "600 x 600 x 900mm",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512447,
+                "name": "600mm Diameter",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512449,
+                "name": "600 x 600 x 900mm",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512451,
+                "name": "600mm Diameter",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512469,
+                "name": "600 x 600 x 900mm",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512471,
+                "name": "600mm Diameter",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512473,
+                "name": "600 x 600 x 900mm",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512475,
+                "name": "600mm Diameter",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512522,
+                "name": "600 x 600 x 900mm",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512524,
+                "name": "600mm Diameter",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512526,
+                "name": "600 x 600 x 900mm",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 512528,
+                "name": "600mm Diameter",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 523531,
+                "name": "wardrobe",
+                "categoryLocalizedName": "Nábytkový systém",
+                "categoryEnumName": "OST_FurnitureSystems"
+            },
+            {
+                "id": 525603,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 554383,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 554644,
+                "name": "9 Meters High",
+                "categoryLocalizedName": "Pozemek",
+                "categoryEnumName": "OST_Site"
+            },
+            {
+                "id": 566599,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 568013,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 628359,
+                "name": "water",
+                "categoryLocalizedName": "Objem",
+                "categoryEnumName": "OST_Mass"
+            },
+            {
+                "id": 669450,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 669451,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 669453,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 669455,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 669457,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 674370,
+                "name": "Miele Washing Machine W 5820 WPS",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 677695,
+                "name": "Miele Tumble Dryer T 7944 C",
+                "categoryLocalizedName": "Speciální vybavení",
+                "categoryEnumName": "OST_SpecialityEquipment"
+            },
+            {
+                "id": 679009,
+                "name": "Rangehood DA-2210",
+                "categoryLocalizedName": "Speciální vybavení",
+                "categoryEnumName": "OST_SpecialityEquipment"
+            },
+            {
+                "id": 680539,
+                "name": "Miele Induction Cooktop 6350 LPT",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 684791,
+                "name": "Miele Fridge/Freezer KF 1911 Vi",
+                "categoryLocalizedName": "Speciální vybavení",
+                "categoryEnumName": "OST_SpecialityEquipment"
+            },
+            {
+                "id": 686184,
+                "name": "Miele Oven H 5681 BP",
+                "categoryLocalizedName": "Speciální vybavení",
+                "categoryEnumName": "OST_SpecialityEquipment"
+            },
+            {
+                "id": 687033,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 687035,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 687037,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 690080,
+                "name": "4500_Kitchen Island_DW",
+                "categoryLocalizedName": "Truhlářské výrobky",
+                "categoryEnumName": "OST_Casework"
+            },
+            {
+                "id": 690286,
+                "name": "4500_Kitchen Island",
+                "categoryLocalizedName": "Truhlářské výrobky",
+                "categoryEnumName": "OST_Casework"
+            },
+            {
+                "id": 694796,
+                "name": "Miele Built-under Dishwasher G 4101 U CS",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 696998,
+                "name": "Miele Microwave M 8260-2",
+                "categoryLocalizedName": "Speciální vybavení",
+                "categoryEnumName": "OST_SpecialityEquipment"
+            },
+            {
+                "id": 697577,
+                "name": "hood enclosure",
+                "categoryLocalizedName": "Nábytkový systém",
+                "categoryEnumName": "OST_FurnitureSystems"
+            },
+            {
+                "id": 698859,
+                "name": "Standard",
+                "categoryLocalizedName": "Instalační zařizovací předměty",
+                "categoryEnumName": "OST_PlumbingFixtures"
+            },
+            {
+                "id": 701300,
+                "name": "fire place hang",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 704276,
+                "name": "Curtain Wall Dbl Glass",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 704282,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 704284,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 704286,
+                "name": "Curtain Wall Dbl Glass",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 704288,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 704289,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 704290,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 704291,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 704293,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 704294,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 704296,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 704297,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 704298,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 704299,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 704300,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 706288,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 707723,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 707726,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 707727,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 707728,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 707729,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 707847,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 707857,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 707859,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 707861,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 708089,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 708090,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 708091,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 708092,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 708093,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 708715,
+                "name": "L127X127X9.5",
+                "categoryLocalizedName": "Konstrukční sloupy",
+                "categoryEnumName": "OST_StructuralColumns"
+            },
+            {
+                "id": 709246,
+                "name": "Entrance door",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 709249,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 709251,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 709253,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 709256,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 709258,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 709259,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 709261,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 709725,
+                "name": "L127X127X9.5",
+                "categoryLocalizedName": "Konstrukční sloupy",
+                "categoryEnumName": "OST_StructuralColumns"
+            },
+            {
+                "id": 735739,
+                "name": "Seating - Artemis - Lounge chair",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 735853,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 736152,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 736223,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 736330,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 736435,
+                "name": "Seating - Artemis - Lounge chair",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 744522,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 744523,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 744524,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 744525,
+                "name": "Standard",
+                "categoryLocalizedName": "Okna",
+                "categoryEnumName": "OST_Windows"
+            },
+            {
+                "id": 745035,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 757198,
+                "name": "Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr",
+                "categoryLocalizedName": "Osvětlovací tělesa",
+                "categoryEnumName": "OST_LightingFixtures"
+            },
+            {
+                "id": 767153,
+                "name": "600 x 600 x 900mm",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 767156,
+                "name": "600mm Diameter",
+                "categoryLocalizedName": "Konstrukční základy",
+                "categoryEnumName": "OST_StructuralFoundation"
+            },
+            {
+                "id": 767797,
+                "name": "Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr",
+                "categoryLocalizedName": "Osvětlovací tělesa",
+                "categoryEnumName": "OST_LightingFixtures"
+            },
+            {
+                "id": 767856,
+                "name": "Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr",
+                "categoryLocalizedName": "Osvětlovací tělesa",
+                "categoryEnumName": "OST_LightingFixtures"
+            },
+            {
+                "id": 767857,
+                "name": "Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr",
+                "categoryLocalizedName": "Osvětlovací tělesa",
+                "categoryEnumName": "OST_LightingFixtures"
+            },
+            {
+                "id": 767870,
+                "name": "Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr",
+                "categoryLocalizedName": "Osvětlovací tělesa",
+                "categoryEnumName": "OST_LightingFixtures"
+            },
+            {
+                "id": 767871,
+                "name": "Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr",
+                "categoryLocalizedName": "Osvětlovací tělesa",
+                "categoryEnumName": "OST_LightingFixtures"
+            },
+            {
+                "id": 767916,
+                "name": "Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr",
+                "categoryLocalizedName": "Osvětlovací tělesa",
+                "categoryEnumName": "OST_LightingFixtures"
+            },
+            {
+                "id": 767917,
+                "name": "Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr",
+                "categoryLocalizedName": "Osvětlovací tělesa",
+                "categoryEnumName": "OST_LightingFixtures"
+            },
+            {
+                "id": 778316,
+                "name": "Solarworld Sunmodule Plus",
+                "categoryLocalizedName": "Elektrické vybavení",
+                "categoryEnumName": "OST_ElectricalEquipment"
+            },
+            {
+                "id": 778420,
+                "name": "5000L 3500x900x1860",
+                "categoryLocalizedName": "Instalační zařizovací předměty",
+                "categoryEnumName": "OST_PlumbingFixtures"
+            },
+            {
+                "id": 778575,
+                "name": "5000L 3500x900x1860",
+                "categoryLocalizedName": "Instalační zařizovací předměty",
+                "categoryEnumName": "OST_PlumbingFixtures"
+            },
+            {
+                "id": 800280,
+                "name": "Solarworld Sunmodule Plus",
+                "categoryLocalizedName": "Elektrické vybavení",
+                "categoryEnumName": "OST_ElectricalEquipment"
+            },
+            {
+                "id": 800325,
+                "name": "Solarworld Sunmodule Plus",
+                "categoryLocalizedName": "Elektrické vybavení",
+                "categoryEnumName": "OST_ElectricalEquipment"
+            },
+            {
+                "id": 800329,
+                "name": "Solarworld Sunmodule Plus",
+                "categoryLocalizedName": "Elektrické vybavení",
+                "categoryEnumName": "OST_ElectricalEquipment"
+            },
+            {
+                "id": 800340,
+                "name": "Solarworld Sunmodule Plus",
+                "categoryLocalizedName": "Elektrické vybavení",
+                "categoryEnumName": "OST_ElectricalEquipment"
+            },
+            {
+                "id": 800342,
+                "name": "Solarworld Sunmodule Plus",
+                "categoryLocalizedName": "Elektrické vybavení",
+                "categoryEnumName": "OST_ElectricalEquipment"
+            },
+            {
+                "id": 800348,
+                "name": "Solarworld Sunmodule Plus",
+                "categoryLocalizedName": "Elektrické vybavení",
+                "categoryEnumName": "OST_ElectricalEquipment"
+            },
+            {
+                "id": 800350,
+                "name": "Solarworld Sunmodule Plus",
+                "categoryLocalizedName": "Elektrické vybavení",
+                "categoryEnumName": "OST_ElectricalEquipment"
+            },
+            {
+                "id": 800381,
+                "name": "Solarworld Sunmodule Plus",
+                "categoryLocalizedName": "Elektrické vybavení",
+                "categoryEnumName": "OST_ElectricalEquipment"
+            },
+            {
+                "id": 800383,
+                "name": "Solarworld Sunmodule Plus",
+                "categoryLocalizedName": "Elektrické vybavení",
+                "categoryEnumName": "OST_ElectricalEquipment"
+            },
+            {
+                "id": 800389,
+                "name": "Solarworld Sunmodule Plus",
+                "categoryLocalizedName": "Elektrické vybavení",
+                "categoryEnumName": "OST_ElectricalEquipment"
+            },
+            {
+                "id": 800391,
+                "name": "Solarworld Sunmodule Plus",
+                "categoryLocalizedName": "Elektrické vybavení",
+                "categoryEnumName": "OST_ElectricalEquipment"
+            },
+            {
+                "id": 802782,
+                "name": "P-D-66N28T8",
+                "categoryLocalizedName": "Osvětlovací tělesa",
+                "categoryEnumName": "OST_LightingFixtures"
+            },
+            {
+                "id": 812954,
+                "name": "P-D-66N28T8",
+                "categoryLocalizedName": "Osvětlovací tělesa",
+                "categoryEnumName": "OST_LightingFixtures"
+            },
+            {
+                "id": 846332,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 846333,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 846334,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 846335,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 846351,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 906937,
+                "name": "1730 x 2134mm",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 909735,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 909736,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 909737,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 909738,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 909751,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 909752,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 909753,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 909754,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 909755,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 909756,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 909757,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 909758,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 909759,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 931537,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 931585,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 931646,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 931858,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 931859,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 931860,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 931861,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 931877,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 931878,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 931879,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 931880,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 931881,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 931882,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 931883,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 931884,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 931885,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 932878,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 934461,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 935747,
+                "name": "Walvit",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 936823,
+                "name": "Standard",
+                "categoryLocalizedName": "Instalační zařizovací předměty",
+                "categoryEnumName": "OST_PlumbingFixtures"
+            },
+            {
+                "id": 937138,
+                "name": "small",
+                "categoryLocalizedName": "Instalační zařizovací předměty",
+                "categoryEnumName": "OST_PlumbingFixtures"
+            },
+            {
+                "id": 937571,
+                "name": "Walvit",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 937572,
+                "name": "M_Shower Stall-2D",
+                "categoryLocalizedName": "Instalační zařizovací předměty",
+                "categoryEnumName": "OST_PlumbingFixtures"
+            },
+            {
+                "id": 937573,
+                "name": "Standard",
+                "categoryLocalizedName": "Instalační zařizovací předměty",
+                "categoryEnumName": "OST_PlumbingFixtures"
+            },
+            {
+                "id": 938761,
+                "name": "Walvit",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 938762,
+                "name": "M_Shower Stall-2D",
+                "categoryLocalizedName": "Instalační zařizovací předměty",
+                "categoryEnumName": "OST_PlumbingFixtures"
+            },
+            {
+                "id": 938763,
+                "name": "Standard",
+                "categoryLocalizedName": "Instalační zařizovací předměty",
+                "categoryEnumName": "OST_PlumbingFixtures"
+            },
+            {
+                "id": 939962,
+                "name": "2.027 x 0.945",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 940221,
+                "name": "2.027 x 0.945",
+                "categoryLocalizedName": "Dveře",
+                "categoryEnumName": "OST_Doors"
+            },
+            {
+                "id": 946164,
+                "name": "Scarlet Oak - 42'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 946385,
+                "name": "Honey Locust - 25'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 946484,
+                "name": "Red Maple - 30'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 946631,
+                "name": "Red Ash - 25'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 946708,
+                "name": "Honey Locust - 25'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 946759,
+                "name": "Lombardy Poplar - 40'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 946816,
+                "name": "Honey Locust - 25'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 946835,
+                "name": "Scarlet Oak - 42'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 946912,
+                "name": "Honey Locust - 25'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 946949,
+                "name": "Honey Locust - 25'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 947002,
+                "name": "Red Maple - 30'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 947057,
+                "name": "Honey Locust - 25'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 947108,
+                "name": "Largetooth Aspen - 25'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 947273,
+                "name": "Hawthorn - 25'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 947330,
+                "name": "Honey Locust - 25'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 947379,
+                "name": "Honey Locust - 25'",
+                "categoryLocalizedName": "Výsadba",
+                "categoryEnumName": "OST_Planting"
+            },
+            {
+                "id": 950367,
+                "name": "M_RPC Beetle",
+                "categoryLocalizedName": "Stafáž",
+                "categoryEnumName": "OST_Entourage"
+            },
+            {
+                "id": 951303,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 951430,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 951431,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 951432,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 951433,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 951434,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 951435,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 954641,
+                "name": "YinYin",
+                "categoryLocalizedName": "Stafáž",
+                "categoryEnumName": "OST_Entourage"
+            },
+            {
+                "id": 954779,
+                "name": "Alex",
+                "categoryLocalizedName": "Stafáž",
+                "categoryEnumName": "OST_Entourage"
+            },
+            {
+                "id": 954992,
+                "name": "YinYin",
+                "categoryLocalizedName": "Stafáž",
+                "categoryEnumName": "OST_Entourage"
+            },
+            {
+                "id": 955125,
+                "name": "YinYin",
+                "categoryLocalizedName": "Stafáž",
+                "categoryEnumName": "OST_Entourage"
+            },
+            {
+                "id": 975083,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 975087,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 975089,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 975091,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 976241,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 976243,
+                "name": "25mm",
+                "categoryLocalizedName": "Sloupky/Balustry",
+                "categoryEnumName": "OST_StairsRailingBaluster"
+            },
+            {
+                "id": 976935,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 976937,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 976938,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 976939,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 976940,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 976942,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 976944,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 976946,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 976953,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 976954,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 976955,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 976956,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 976957,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 976958,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 976959,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 976960,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 976961,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977182,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977191,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977193,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977195,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977197,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977199,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977201,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977203,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977247,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977248,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977249,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977250,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977251,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977252,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977253,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977406,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977408,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977409,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977410,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977411,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977413,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977415,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977417,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977419,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977421,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977423,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977425,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977433,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977434,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977435,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977436,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977437,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977438,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977439,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977440,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977441,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977442,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977443,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977444,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977445,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977446,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977447,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977448,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977449,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977450,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977451,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977452,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977453,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977507,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 977513,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977514,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977515,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977594,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977595,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977596,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977597,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977598,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977599,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977600,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977601,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977602,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977603,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977604,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977605,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977606,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977607,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977608,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977609,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977610,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 977611,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 978551,
+                "name": "Glazed",
+                "categoryLocalizedName": "Panely obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallPanels"
+            },
+            {
+                "id": 978557,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 978558,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 978559,
+                "name": "64 x 128 rectangular",
+                "categoryLocalizedName": "Příčle obvodového pláště",
+                "categoryEnumName": "OST_CurtainWallMullions"
+            },
+            {
+                "id": 981963,
+                "name": "Model with Island",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 982762,
+                "name": "W600XD600",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 983030,
+                "name": "W600XD600 2",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 983156,
+                "name": "W600XD600",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 983164,
+                "name": "W600XD600",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 983236,
+                "name": "W600XD600",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 983306,
+                "name": "W600XD600 2",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 983388,
+                "name": "W600XD600",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 984486,
+                "name": "W1500XD400XH530",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 985756,
+                "name": "0810mm",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 986988,
+                "name": "Vase (3)-with Flower",
+                "categoryLocalizedName": "Speciální vybavení",
+                "categoryEnumName": "OST_SpecialityEquipment"
+            },
+            {
+                "id": 987054,
+                "name": "Side Table 2 (2)",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 987167,
+                "name": "Side Table 2 (2)",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 988128,
+                "name": "Bar Chair",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 988396,
+                "name": "Bar Chair",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 988459,
+                "name": "Bar Chair",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 988462,
+                "name": "Bar Chair",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 988603,
+                "name": "Bar Chair",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 988640,
+                "name": "Bar Chair",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 989344,
+                "name": "1800 x 900 mm",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 989521,
+                "name": "1800 x 900 mm",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 990317,
+                "name": "Dining Chair (3)",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 990596,
+                "name": "Dining Chair (3)",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 990620,
+                "name": "Dining Chair (3)",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 990621,
+                "name": "Dining Chair (3)",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 990645,
+                "name": "Dining Chair (3)",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 990646,
+                "name": "Dining Chair (3)",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 990647,
+                "name": "Dining Chair (3)",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 990648,
+                "name": "Dining Chair (3)",
+                "categoryLocalizedName": "Nábytek",
+                "categoryEnumName": "OST_Furniture"
+            },
+            {
+                "id": 993091,
+                "name": "Wine Bottles",
+                "categoryLocalizedName": "Speciální vybavení",
+                "categoryEnumName": "OST_SpecialityEquipment"
+            },
+            {
+                "id": 993980,
+                "name": "White",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 994782,
+                "name": "Fine China - Plate",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 996881,
+                "name": "Water Glass",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997032,
+                "name": "Fine China - Plate",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997033,
+                "name": "Water Glass",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997050,
+                "name": "Fine China - Plate",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997051,
+                "name": "Water Glass",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997068,
+                "name": "Fine China - Plate",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997069,
+                "name": "Water Glass",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997114,
+                "name": "Fine China - Plate",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997115,
+                "name": "Water Glass",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997116,
+                "name": "Fine China - Plate",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997117,
+                "name": "Water Glass",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997118,
+                "name": "Fine China - Plate",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997119,
+                "name": "Water Glass",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997120,
+                "name": "Fine China - Plate",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            },
+            {
+                "id": 997121,
+                "name": "Water Glass",
+                "categoryLocalizedName": "Obecné modely",
+                "categoryEnumName": "OST_GenericModel"
+            }
+        ]
+    }
+]
